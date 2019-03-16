@@ -1,0 +1,32 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  width: 100%;
+}
+
+.row {
+  display: flex;
+}
+
+h1 {
+  font-family: cursive;
+  color:	#FF4500;
+}
+
+
+.rules {
+  margin-top: 40px;
+}
+
+.rules-text {
+  margin-top: 30px;
+}
+
